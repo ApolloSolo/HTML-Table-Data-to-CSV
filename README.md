@@ -1,2 +1,2 @@
-# HTML-Table-Data-to-CSV
+# HTML-Table-Data-To-CSV
 Download table data into a csv file.
